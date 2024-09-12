@@ -30,7 +30,6 @@ train = [
     "numpy==1.26.1",
     "open_clip_torch",
     "fastapi",
-    "markdown2[all]",
     "numpy",
     "requests",
     "sentencepiece",
